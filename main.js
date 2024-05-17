@@ -1,4 +1,4 @@
-import Form from './formValidation.js';
+import Form from './dynamicFormValidation.js';
 
 //FORM INPUTS;
 const inputs = [
